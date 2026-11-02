@@ -1,0 +1,7 @@
+transaction_id,event_date,event_name,opponent,archtics_revenue,salesforce_deal_rev,gp_gl_amount,assigned_sales_rep,rep_department,issue_description,data_quality_status,remediation_action
+TX-8801,2026-11-04,Suns vs. Trail Blazers: Día de los Muertos,Portland Trail Blazers,12500.0,12500.0,12500.0,Alex Morgan,Inside Sales,None – Match,VERIFIED,Approved for 5% Commission
+TX-8802,2026-11-04,Suns vs. Trail Blazers: Día de los Muertos,Portland Trail Blazers,8400.0,8400.0,0.0,Marcus Vance,Group Sales,Archtics sync delayed in GP GL,PENDING GL,Flagged to Finance for GL sync before payroll cutoff
+TX-8803,2026-11-07,Suns vs. Rockets: ORIGINATIV,Houston Rockets,45000.0,50000.0,45000.0,Sarah Jenkins,Premium Sales,CRM deal included $5k unbilled F&B add-on,MISMATCH,"Adjusted CRM deal value down to $45,000 net ticket rev"
+TX-8804,2026-11-09,Phoenix Suns vs. San Antonio Spurs,San Antonio Spurs,18200.0,18200.0,18200.0,Alex Morgan / Chris Lee,Inside Sales / Premium,Dual rep credit; split % missing in CRM,SPLIT ERROR,Updated CRM split ratio to 50/50 per Manager approval
+TX-8805,2026-11-12,Suns vs. Hornets: Hoops for Troops,Charlotte Hornets,6000.0,0.0,6000.0,Unassigned,Box Office / Web,Web self-service tagged as rep sale in error,ATTRIBUTION,Re-classified from Commissionable to House Sale
+TX-8806,2026-11-15,Phoenix Suns vs. Los Angeles Lakers,Los Angeles Lakers,110000.0,110000.0,110000.0,Taylor Reed,Partnerships,Asset mapping error (Suite vs Sponsorship),CATEGORY,Re-mapped GL product category to Suite Licensing
