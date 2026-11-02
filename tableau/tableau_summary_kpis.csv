@@ -1,0 +1,7 @@
+metric_name,metric_value,unit
+Total Transactions Reviewed,7,Count
+Transactions Flagged for Review,5,Count
+Percentage Passing Validation,28.57%,Percentage
+Total Revenue Variance Needing Review,"$13,400.00",USD
+Resolved Exceptions,4,Count
+Open/Investigating Exceptions,1,Count

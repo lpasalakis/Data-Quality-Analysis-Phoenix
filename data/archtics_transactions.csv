@@ -1,0 +1,8 @@
+transaction_id,event_name,transaction_date,archtics_revenue,ticket_count,archtics_rep_id,product_category,crm_opportunity_id
+TX-8801,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,12500.0,50,REP-101,Group Sales,OPP-9001
+TX-8802,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,8400.0,30,REP-102,Group Sales,OPP-9002
+TX-8803,Suns vs. Rockets: ORIGINATIV,2026-11-07,45000.0,10,REP-103,Premium Suites,OPP-9003
+TX-8804,Phoenix Suns vs. San Antonio Spurs,2026-11-09,18200.0,40,REP-101,Inside Sales,OPP-9004
+TX-8805,Suns vs. Hornets: Hoops for Troops,2026-11-12,6000.0,25,REP-999,Web Self-Service,
+TX-8806,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,110000.0,1,REP-104,Partnerships,OPP-9006
+TX-8807,Phoenix Suns vs. LA Clippers,2026-11-10,15000.0,20,REP-101,Inside Sales,OPP-9007
