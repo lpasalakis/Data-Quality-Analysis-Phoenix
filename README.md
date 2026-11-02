@@ -1,5 +1,5 @@
 
-# Player 15 Group: Data Quality & Commission Reconciliation Project (v3)
+# Player 15 Group: Data Quality & Commission Reconciliation Project
 
 **Target Role:** Data Quality Analyst – Strategy & Analytics / Commission Administration  
 **Organization Scope:** Player 15 Group (Phoenix Suns, Phoenix Mercury, Valley Suns, Mortgage Matchup Center)  
@@ -10,7 +10,7 @@
 ## 1. Executive Summary & Architecture
 This project implements an automated, multi-system data quality pipeline that reconciles ticket sales transactions between **Ticketmaster Archtics**, **Salesforce CRM**, **Salesforce Split Credits**, and **Microsoft Dynamics Great Plains (GP)**.
 
-### Core Enhancements in v3:
+### Core Enhancements:
 1. **Row-per-Check Audit Architecture**: Evaluates 7 independent quality checks per transaction (2,100 total checks across 300 synthetic records) so multiple issues per transaction are never hidden.
 2. **Reconciled Status Fields**: Separates `original_check_result` (PASS/FAIL), `investigation_status` (Investigating/Closed), `approval_status` (Pending/Approved), and `posting_resolution_status` (Posted/Unposted/Resolved).
 3. **Traceable Resolution Audit Log**: Connects flags to stable issue IDs (`ISSUE-2026-xxx`), supporting evidence, reviewer sign-offs, and clear before-and-after values.
