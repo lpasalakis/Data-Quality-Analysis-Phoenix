@@ -1,0 +1,302 @@
+transaction_id,event_name,transaction_date,archtics_revenue,ticket_count,archtics_rep_id,rep_department,product_category,crm_opportunity_id
+TX-8801,Phoenix Suns vs. Orlando Magic,2026-11-05,110000.0,30,REP-102,Group Sales,Group Sales,OPP-9001
+TX-8802,Suns vs. Rockets: ORIGINATIV,2026-11-07,18200.0,20,REP-103,Premium Sales,Premium Sales,OPP-9002
+TX-8803,Phoenix Suns vs. San Antonio Spurs,2026-11-09,45000.0,50,REP-104,Partnerships,Partnerships,OPP-9003
+TX-8804,Phoenix Suns vs. LA Clippers,2026-11-10,110000.0,10,REP-105,Inside Sales,Inside Sales,OPP-9004
+TX-8805,Suns vs. Hornets: Hoops for Troops,2026-11-12,8400.0,20,REP-999,Box Office / Web,Web Self-Service,
+TX-8806,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,8400.0,50,REP-101,Inside Sales,Partnerships,OPP-9006
+TX-8807,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,12500.0,20,REP-102,Group Sales,Group Sales,OPP-9007
+TX-8808,Phoenix Suns vs. Orlando Magic,2026-11-05,45000.0,50,REP-103,Premium Sales,Premium Sales,OPP-9008
+TX-8809,Suns vs. Rockets: ORIGINATIV,2026-11-07,5000.0,30,REP-104,Partnerships,Partnerships,OPP-9009
+TX-8810,Phoenix Suns vs. San Antonio Spurs,2026-11-09,45000.0,10,REP-105,Inside Sales,Inside Sales,OPP-9010
+TX-8811,Phoenix Suns vs. LA Clippers,2026-11-10,12500.0,50,REP-999,Box Office / Web,Box Office / Web,OPP-9011
+TX-8812,Suns vs. Hornets: Hoops for Troops,2026-11-12,2500.0,30,REP-101,Inside Sales,Inside Sales,OPP-9012
+TX-8813,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,5000.0,50,REP-102,Group Sales,Group Sales,OPP-9013
+TX-8814,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,12500.0,1,REP-103,Premium Sales,Premium Sales,OPP-9014
+TX-8815,Phoenix Suns vs. Orlando Magic,2026-11-05,2500.0,20,REP-104,Partnerships,Partnerships,OPP-9015
+TX-8816,Suns vs. Rockets: ORIGINATIV,2026-11-07,8400.0,10,REP-105,Inside Sales,Inside Sales,OPP-9016
+TX-8817,Phoenix Suns vs. San Antonio Spurs,2026-11-09,12500.0,30,REP-999,Box Office / Web,Box Office / Web,OPP-9017
+TX-8818,Phoenix Suns vs. LA Clippers,2026-11-10,110000.0,20,REP-101,Inside Sales,Inside Sales,OPP-9018
+TX-8819,Suns vs. Hornets: Hoops for Troops,2026-11-12,12500.0,30,REP-102,Group Sales,Group Sales,OPP-9019
+TX-8820,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,2500.0,20,REP-103,Premium Sales,Premium Sales,OPP-9020
+TX-8821,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,18200.0,20,REP-104,Partnerships,Partnerships,OPP-9021
+TX-8822,Phoenix Suns vs. Orlando Magic,2026-11-05,110000.0,50,REP-105,Inside Sales,Inside Sales,OPP-9022
+TX-8823,Suns vs. Rockets: ORIGINATIV,2026-11-07,2500.0,10,REP-999,Box Office / Web,Box Office / Web,OPP-9023
+TX-8824,Phoenix Suns vs. San Antonio Spurs,2026-11-09,12500.0,1,REP-101,Inside Sales,Inside Sales,OPP-9024
+TX-8825,Phoenix Suns vs. LA Clippers,2026-11-10,12500.0,10,REP-102,Group Sales,Group Sales,OPP-9025
+TX-8826,Suns vs. Hornets: Hoops for Troops,2026-11-12,5000.0,1,REP-103,Premium Sales,Premium Sales,OPP-9026
+TX-8827,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,5000.0,50,REP-104,Partnerships,Partnerships,OPP-9027
+TX-8828,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,5000.0,30,REP-105,Inside Sales,Inside Sales,OPP-9028
+TX-8829,Phoenix Suns vs. Orlando Magic,2026-11-05,12500.0,30,REP-999,Box Office / Web,Box Office / Web,OPP-9029
+TX-8830,Suns vs. Rockets: ORIGINATIV,2026-11-07,110000.0,30,REP-101,Inside Sales,Inside Sales,OPP-9030
+TX-8831,Phoenix Suns vs. San Antonio Spurs,2026-11-09,18200.0,20,REP-102,Group Sales,Group Sales,OPP-9031
+TX-8832,Phoenix Suns vs. LA Clippers,2026-11-10,45000.0,1,REP-103,Premium Sales,Premium Sales,OPP-9032
+TX-8833,Suns vs. Hornets: Hoops for Troops,2026-11-12,12500.0,10,REP-104,Partnerships,Partnerships,OPP-9033
+TX-8834,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,12500.0,10,REP-105,Inside Sales,Inside Sales,OPP-9034
+TX-8835,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,45000.0,10,REP-999,Box Office / Web,Box Office / Web,OPP-9035
+TX-8836,Phoenix Suns vs. Orlando Magic,2026-11-05,12500.0,50,REP-101,Inside Sales,Inside Sales,OPP-9036
+TX-8837,Suns vs. Rockets: ORIGINATIV,2026-11-07,110000.0,10,REP-102,Group Sales,Group Sales,OPP-9037
+TX-8838,Phoenix Suns vs. San Antonio Spurs,2026-11-09,5000.0,30,REP-103,Premium Sales,Premium Sales,OPP-9038
+TX-8839,Phoenix Suns vs. LA Clippers,2026-11-10,5000.0,10,REP-104,Partnerships,Partnerships,OPP-9039
+TX-8840,Suns vs. Hornets: Hoops for Troops,2026-11-12,45000.0,30,REP-105,Inside Sales,Inside Sales,OPP-9040
+TX-8841,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,45000.0,30,REP-999,Box Office / Web,Box Office / Web,OPP-9041
+TX-8842,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,2500.0,50,REP-101,Inside Sales,Inside Sales,OPP-9042
+TX-8843,Phoenix Suns vs. Orlando Magic,2026-11-05,18200.0,10,REP-102,Group Sales,Group Sales,OPP-9043
+TX-8844,Suns vs. Rockets: ORIGINATIV,2026-11-07,110000.0,50,REP-103,Premium Sales,Premium Sales,OPP-9044
+TX-8845,Phoenix Suns vs. San Antonio Spurs,2026-11-09,5000.0,1,REP-104,Partnerships,Partnerships,OPP-9045
+TX-8846,Phoenix Suns vs. LA Clippers,2026-11-10,12500.0,30,REP-105,Inside Sales,Inside Sales,OPP-9046
+TX-8847,Suns vs. Hornets: Hoops for Troops,2026-11-12,12500.0,50,REP-999,Box Office / Web,Box Office / Web,OPP-9047
+TX-8848,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,2500.0,50,REP-101,Inside Sales,Inside Sales,OPP-9048
+TX-8849,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,110000.0,50,REP-102,Group Sales,Group Sales,OPP-9049
+TX-8850,Phoenix Suns vs. Orlando Magic,2026-11-05,2500.0,1,REP-103,Premium Sales,Premium Sales,OPP-9050
+TX-8851,Suns vs. Rockets: ORIGINATIV,2026-11-07,110000.0,1,REP-104,Partnerships,Partnerships,OPP-9051
+TX-8852,Phoenix Suns vs. San Antonio Spurs,2026-11-09,2500.0,30,REP-105,Inside Sales,Inside Sales,OPP-9052
+TX-8853,Phoenix Suns vs. LA Clippers,2026-11-10,110000.0,20,REP-999,Box Office / Web,Box Office / Web,OPP-9053
+TX-8854,Suns vs. Hornets: Hoops for Troops,2026-11-12,8400.0,1,REP-101,Inside Sales,Inside Sales,OPP-9054
+TX-8855,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,8400.0,20,REP-102,Group Sales,Group Sales,OPP-9055
+TX-8856,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,2500.0,20,REP-103,Premium Sales,Premium Sales,OPP-9056
+TX-8857,Phoenix Suns vs. Orlando Magic,2026-11-05,18200.0,10,REP-104,Partnerships,Partnerships,OPP-9057
+TX-8858,Suns vs. Rockets: ORIGINATIV,2026-11-07,110000.0,10,REP-105,Inside Sales,Inside Sales,OPP-9058
+TX-8859,Phoenix Suns vs. San Antonio Spurs,2026-11-09,2500.0,30,REP-999,Box Office / Web,Box Office / Web,OPP-9059
+TX-8860,Phoenix Suns vs. LA Clippers,2026-11-10,110000.0,1,REP-101,Inside Sales,Inside Sales,OPP-9060
+TX-8861,Suns vs. Hornets: Hoops for Troops,2026-11-12,12500.0,10,REP-102,Group Sales,Group Sales,OPP-9061
+TX-8862,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,2500.0,50,REP-103,Premium Sales,Premium Sales,OPP-9062
+TX-8863,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,8400.0,30,REP-104,Partnerships,Partnerships,OPP-9063
+TX-8864,Phoenix Suns vs. Orlando Magic,2026-11-05,45000.0,20,REP-105,Inside Sales,Inside Sales,OPP-9064
+TX-8865,Suns vs. Rockets: ORIGINATIV,2026-11-07,8400.0,1,REP-999,Box Office / Web,Box Office / Web,OPP-9065
+TX-8866,Phoenix Suns vs. San Antonio Spurs,2026-11-09,8400.0,50,REP-101,Inside Sales,Inside Sales,OPP-9066
+TX-8867,Phoenix Suns vs. LA Clippers,2026-11-10,110000.0,20,REP-102,Group Sales,Group Sales,OPP-9067
+TX-8868,Suns vs. Hornets: Hoops for Troops,2026-11-12,2500.0,50,REP-103,Premium Sales,Premium Sales,OPP-9068
+TX-8869,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,5000.0,20,REP-104,Partnerships,Partnerships,OPP-9069
+TX-8870,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,2500.0,10,REP-105,Inside Sales,Inside Sales,OPP-9070
+TX-8871,Phoenix Suns vs. Orlando Magic,2026-11-05,5000.0,30,REP-999,Box Office / Web,Box Office / Web,OPP-9071
+TX-8872,Suns vs. Rockets: ORIGINATIV,2026-11-07,18200.0,20,REP-101,Inside Sales,Inside Sales,OPP-9072
+TX-8873,Phoenix Suns vs. San Antonio Spurs,2026-11-09,110000.0,1,REP-102,Group Sales,Group Sales,OPP-9073
+TX-8874,Phoenix Suns vs. LA Clippers,2026-11-10,12500.0,50,REP-103,Premium Sales,Premium Sales,OPP-9074
+TX-8875,Suns vs. Hornets: Hoops for Troops,2026-11-12,12500.0,50,REP-104,Partnerships,Partnerships,OPP-9075
+TX-8876,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,110000.0,50,REP-105,Inside Sales,Inside Sales,OPP-9076
+TX-8877,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,110000.0,20,REP-999,Box Office / Web,Box Office / Web,OPP-9077
+TX-8878,Phoenix Suns vs. Orlando Magic,2026-11-05,18200.0,30,REP-101,Inside Sales,Inside Sales,OPP-9078
+TX-8879,Suns vs. Rockets: ORIGINATIV,2026-11-07,18200.0,20,REP-102,Group Sales,Group Sales,OPP-9079
+TX-8880,Phoenix Suns vs. San Antonio Spurs,2026-11-09,8400.0,30,REP-103,Premium Sales,Premium Sales,OPP-9080
+TX-8881,Phoenix Suns vs. LA Clippers,2026-11-10,5000.0,10,REP-104,Partnerships,Partnerships,OPP-9081
+TX-8882,Suns vs. Hornets: Hoops for Troops,2026-11-12,18200.0,1,REP-105,Inside Sales,Inside Sales,OPP-9082
+TX-8883,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,18200.0,30,REP-999,Box Office / Web,Box Office / Web,OPP-9083
+TX-8884,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,12500.0,30,REP-101,Inside Sales,Inside Sales,OPP-9084
+TX-8885,Phoenix Suns vs. Orlando Magic,2026-11-05,12500.0,30,REP-102,Group Sales,Group Sales,OPP-9085
+TX-8886,Suns vs. Rockets: ORIGINATIV,2026-11-07,45000.0,20,REP-103,Premium Sales,Premium Sales,OPP-9086
+TX-8887,Phoenix Suns vs. San Antonio Spurs,2026-11-09,5000.0,30,REP-104,Partnerships,Partnerships,OPP-9087
+TX-8888,Phoenix Suns vs. LA Clippers,2026-11-10,2500.0,1,REP-105,Inside Sales,Inside Sales,OPP-9088
+TX-8889,Suns vs. Hornets: Hoops for Troops,2026-11-12,2500.0,1,REP-999,Box Office / Web,Box Office / Web,OPP-9089
+TX-8890,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,8400.0,1,REP-101,Inside Sales,Inside Sales,OPP-9090
+TX-8891,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,12500.0,50,REP-102,Group Sales,Group Sales,OPP-9091
+TX-8892,Phoenix Suns vs. Orlando Magic,2026-11-05,2500.0,20,REP-103,Premium Sales,Premium Sales,OPP-9092
+TX-8893,Suns vs. Rockets: ORIGINATIV,2026-11-07,110000.0,20,REP-104,Partnerships,Partnerships,OPP-9093
+TX-8894,Phoenix Suns vs. San Antonio Spurs,2026-11-09,2500.0,50,REP-105,Inside Sales,Inside Sales,OPP-9094
+TX-8895,Phoenix Suns vs. LA Clippers,2026-11-10,2500.0,20,REP-999,Box Office / Web,Box Office / Web,OPP-9095
+TX-8896,Suns vs. Hornets: Hoops for Troops,2026-11-12,5000.0,30,REP-101,Inside Sales,Inside Sales,OPP-9096
+TX-8897,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,110000.0,20,REP-102,Group Sales,Group Sales,OPP-9097
+TX-8898,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,45000.0,1,REP-103,Premium Sales,Premium Sales,OPP-9098
+TX-8899,Phoenix Suns vs. Orlando Magic,2026-11-05,12500.0,1,REP-104,Partnerships,Partnerships,OPP-9099
+TX-8900,Suns vs. Rockets: ORIGINATIV,2026-11-07,45000.0,1,REP-105,Inside Sales,Inside Sales,OPP-9100
+TX-8901,Phoenix Suns vs. San Antonio Spurs,2026-11-09,5000.0,30,REP-999,Box Office / Web,Box Office / Web,OPP-9101
+TX-8902,Phoenix Suns vs. LA Clippers,2026-11-10,12500.0,10,REP-101,Inside Sales,Inside Sales,OPP-9102
+TX-8903,Suns vs. Hornets: Hoops for Troops,2026-11-12,8400.0,1,REP-102,Group Sales,Group Sales,OPP-9103
+TX-8904,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,18200.0,1,REP-103,Premium Sales,Premium Sales,OPP-9104
+TX-8905,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,2500.0,20,REP-104,Partnerships,Partnerships,OPP-9105
+TX-8906,Phoenix Suns vs. Orlando Magic,2026-11-05,2500.0,10,REP-105,Inside Sales,Inside Sales,OPP-9106
+TX-8907,Suns vs. Rockets: ORIGINATIV,2026-11-07,5000.0,30,REP-999,Box Office / Web,Box Office / Web,OPP-9107
+TX-8908,Phoenix Suns vs. San Antonio Spurs,2026-11-09,45000.0,50,REP-101,Inside Sales,Inside Sales,OPP-9108
+TX-8909,Phoenix Suns vs. LA Clippers,2026-11-10,2500.0,1,REP-102,Group Sales,Group Sales,OPP-9109
+TX-8910,Suns vs. Hornets: Hoops for Troops,2026-11-12,8400.0,10,REP-103,Premium Sales,Premium Sales,OPP-9110
+TX-8911,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,18200.0,30,REP-104,Partnerships,Partnerships,OPP-9111
+TX-8912,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,5000.0,30,REP-105,Inside Sales,Inside Sales,OPP-9112
+TX-8913,Phoenix Suns vs. Orlando Magic,2026-11-05,110000.0,20,REP-999,Box Office / Web,Box Office / Web,OPP-9113
+TX-8914,Suns vs. Rockets: ORIGINATIV,2026-11-07,8400.0,1,REP-101,Inside Sales,Inside Sales,OPP-9114
+TX-8915,Phoenix Suns vs. San Antonio Spurs,2026-11-09,110000.0,50,REP-102,Group Sales,Group Sales,OPP-9115
+TX-8916,Phoenix Suns vs. LA Clippers,2026-11-10,12500.0,10,REP-103,Premium Sales,Premium Sales,OPP-9116
+TX-8917,Suns vs. Hornets: Hoops for Troops,2026-11-12,45000.0,20,REP-104,Partnerships,Partnerships,OPP-9117
+TX-8918,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,110000.0,1,REP-105,Inside Sales,Inside Sales,OPP-9118
+TX-8919,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,2500.0,30,REP-999,Box Office / Web,Box Office / Web,OPP-9119
+TX-8920,Phoenix Suns vs. Orlando Magic,2026-11-05,8400.0,50,REP-101,Inside Sales,Inside Sales,OPP-9120
+TX-8921,Suns vs. Rockets: ORIGINATIV,2026-11-07,8400.0,30,REP-102,Group Sales,Group Sales,OPP-9121
+TX-8922,Phoenix Suns vs. San Antonio Spurs,2026-11-09,12500.0,20,REP-103,Premium Sales,Premium Sales,OPP-9122
+TX-8923,Phoenix Suns vs. LA Clippers,2026-11-10,12500.0,20,REP-104,Partnerships,Partnerships,OPP-9123
+TX-8924,Suns vs. Hornets: Hoops for Troops,2026-11-12,5000.0,20,REP-105,Inside Sales,Inside Sales,OPP-9124
+TX-8925,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,110000.0,20,REP-999,Box Office / Web,Box Office / Web,OPP-9125
+TX-8926,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,12500.0,30,REP-101,Inside Sales,Inside Sales,OPP-9126
+TX-8927,Phoenix Suns vs. Orlando Magic,2026-11-05,2500.0,1,REP-102,Group Sales,Group Sales,OPP-9127
+TX-8928,Suns vs. Rockets: ORIGINATIV,2026-11-07,110000.0,10,REP-103,Premium Sales,Premium Sales,OPP-9128
+TX-8929,Phoenix Suns vs. San Antonio Spurs,2026-11-09,2500.0,20,REP-104,Partnerships,Partnerships,OPP-9129
+TX-8930,Phoenix Suns vs. LA Clippers,2026-11-10,12500.0,1,REP-105,Inside Sales,Inside Sales,OPP-9130
+TX-8931,Suns vs. Hornets: Hoops for Troops,2026-11-12,2500.0,10,REP-999,Box Office / Web,Box Office / Web,OPP-9131
+TX-8932,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,110000.0,10,REP-101,Inside Sales,Inside Sales,OPP-9132
+TX-8933,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,8400.0,30,REP-102,Group Sales,Group Sales,OPP-9133
+TX-8934,Phoenix Suns vs. Orlando Magic,2026-11-05,5000.0,1,REP-103,Premium Sales,Premium Sales,OPP-9134
+TX-8935,Suns vs. Rockets: ORIGINATIV,2026-11-07,12500.0,30,REP-104,Partnerships,Partnerships,OPP-9135
+TX-8936,Phoenix Suns vs. San Antonio Spurs,2026-11-09,2500.0,10,REP-105,Inside Sales,Inside Sales,OPP-9136
+TX-8937,Phoenix Suns vs. LA Clippers,2026-11-10,2500.0,30,REP-999,Box Office / Web,Box Office / Web,OPP-9137
+TX-8938,Suns vs. Hornets: Hoops for Troops,2026-11-12,18200.0,50,REP-101,Inside Sales,Inside Sales,OPP-9138
+TX-8939,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,8400.0,1,REP-102,Group Sales,Group Sales,OPP-9139
+TX-8940,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,2500.0,20,REP-103,Premium Sales,Premium Sales,OPP-9140
+TX-8941,Phoenix Suns vs. Orlando Magic,2026-11-05,8400.0,20,REP-104,Partnerships,Partnerships,OPP-9141
+TX-8942,Suns vs. Rockets: ORIGINATIV,2026-11-07,12500.0,1,REP-105,Inside Sales,Inside Sales,OPP-9142
+TX-8943,Phoenix Suns vs. San Antonio Spurs,2026-11-09,12500.0,20,REP-999,Box Office / Web,Box Office / Web,OPP-9143
+TX-8944,Phoenix Suns vs. LA Clippers,2026-11-10,2500.0,30,REP-101,Inside Sales,Inside Sales,OPP-9144
+TX-8945,Suns vs. Hornets: Hoops for Troops,2026-11-12,45000.0,30,REP-102,Group Sales,Group Sales,OPP-9145
+TX-8946,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,45000.0,20,REP-103,Premium Sales,Premium Sales,OPP-9146
+TX-8947,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,45000.0,1,REP-104,Partnerships,Partnerships,OPP-9147
+TX-8948,Phoenix Suns vs. Orlando Magic,2026-11-05,8400.0,1,REP-105,Inside Sales,Inside Sales,OPP-9148
+TX-8949,Suns vs. Rockets: ORIGINATIV,2026-11-07,18200.0,10,REP-999,Box Office / Web,Box Office / Web,OPP-9149
+TX-8950,Phoenix Suns vs. San Antonio Spurs,2026-11-09,45000.0,10,REP-101,Inside Sales,Inside Sales,OPP-9150
+TX-8951,Phoenix Suns vs. LA Clippers,2026-11-10,5000.0,20,REP-102,Group Sales,Group Sales,OPP-9151
+TX-8952,Suns vs. Hornets: Hoops for Troops,2026-11-12,18200.0,1,REP-103,Premium Sales,Premium Sales,OPP-9152
+TX-8953,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,12500.0,1,REP-104,Partnerships,Partnerships,OPP-9153
+TX-8954,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,12500.0,1,REP-105,Inside Sales,Inside Sales,OPP-9154
+TX-8955,Phoenix Suns vs. Orlando Magic,2026-11-05,45000.0,50,REP-999,Box Office / Web,Box Office / Web,OPP-9155
+TX-8956,Suns vs. Rockets: ORIGINATIV,2026-11-07,12500.0,20,REP-101,Inside Sales,Inside Sales,OPP-9156
+TX-8957,Phoenix Suns vs. San Antonio Spurs,2026-11-09,2500.0,1,REP-102,Group Sales,Group Sales,OPP-9157
+TX-8958,Phoenix Suns vs. LA Clippers,2026-11-10,12500.0,20,REP-103,Premium Sales,Premium Sales,OPP-9158
+TX-8959,Suns vs. Hornets: Hoops for Troops,2026-11-12,8400.0,50,REP-104,Partnerships,Partnerships,OPP-9159
+TX-8960,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,8400.0,20,REP-105,Inside Sales,Inside Sales,OPP-9160
+TX-8961,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,8400.0,10,REP-999,Box Office / Web,Box Office / Web,OPP-9161
+TX-8962,Phoenix Suns vs. Orlando Magic,2026-11-05,18200.0,1,REP-101,Inside Sales,Inside Sales,OPP-9162
+TX-8963,Suns vs. Rockets: ORIGINATIV,2026-11-07,12500.0,1,REP-102,Group Sales,Group Sales,OPP-9163
+TX-8964,Phoenix Suns vs. San Antonio Spurs,2026-11-09,18200.0,30,REP-103,Premium Sales,Premium Sales,OPP-9164
+TX-8965,Phoenix Suns vs. LA Clippers,2026-11-10,18200.0,20,REP-104,Partnerships,Partnerships,OPP-9165
+TX-8966,Suns vs. Hornets: Hoops for Troops,2026-11-12,12500.0,20,REP-105,Inside Sales,Inside Sales,OPP-9166
+TX-8967,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,2500.0,1,REP-999,Box Office / Web,Box Office / Web,OPP-9167
+TX-8968,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,12500.0,30,REP-101,Inside Sales,Inside Sales,OPP-9168
+TX-8969,Phoenix Suns vs. Orlando Magic,2026-11-05,45000.0,50,REP-102,Group Sales,Group Sales,OPP-9169
+TX-8970,Suns vs. Rockets: ORIGINATIV,2026-11-07,45000.0,50,REP-103,Premium Sales,Premium Sales,OPP-9170
+TX-8971,Phoenix Suns vs. San Antonio Spurs,2026-11-09,45000.0,20,REP-104,Partnerships,Partnerships,OPP-9171
+TX-8972,Phoenix Suns vs. LA Clippers,2026-11-10,12500.0,1,REP-105,Inside Sales,Inside Sales,OPP-9172
+TX-8973,Suns vs. Hornets: Hoops for Troops,2026-11-12,18200.0,50,REP-999,Box Office / Web,Box Office / Web,OPP-9173
+TX-8974,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,2500.0,50,REP-101,Inside Sales,Inside Sales,OPP-9174
+TX-8975,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,110000.0,20,REP-102,Group Sales,Group Sales,OPP-9175
+TX-8976,Phoenix Suns vs. Orlando Magic,2026-11-05,12500.0,1,REP-103,Premium Sales,Premium Sales,OPP-9176
+TX-8977,Suns vs. Rockets: ORIGINATIV,2026-11-07,12500.0,50,REP-104,Partnerships,Partnerships,OPP-9177
+TX-8978,Phoenix Suns vs. San Antonio Spurs,2026-11-09,18200.0,1,REP-105,Inside Sales,Inside Sales,OPP-9178
+TX-8979,Phoenix Suns vs. LA Clippers,2026-11-10,8400.0,10,REP-999,Box Office / Web,Box Office / Web,OPP-9179
+TX-8980,Suns vs. Hornets: Hoops for Troops,2026-11-12,2500.0,10,REP-101,Inside Sales,Inside Sales,OPP-9180
+TX-8981,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,110000.0,10,REP-102,Group Sales,Group Sales,OPP-9181
+TX-8982,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,8400.0,10,REP-103,Premium Sales,Premium Sales,OPP-9182
+TX-8983,Phoenix Suns vs. Orlando Magic,2026-11-05,110000.0,10,REP-104,Partnerships,Partnerships,OPP-9183
+TX-8984,Suns vs. Rockets: ORIGINATIV,2026-11-07,110000.0,20,REP-105,Inside Sales,Inside Sales,OPP-9184
+TX-8985,Phoenix Suns vs. San Antonio Spurs,2026-11-09,5000.0,10,REP-999,Box Office / Web,Box Office / Web,OPP-9185
+TX-8986,Phoenix Suns vs. LA Clippers,2026-11-10,5000.0,1,REP-101,Inside Sales,Inside Sales,OPP-9186
+TX-8987,Suns vs. Hornets: Hoops for Troops,2026-11-12,2500.0,1,REP-102,Group Sales,Group Sales,OPP-9187
+TX-8988,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,8400.0,50,REP-103,Premium Sales,Premium Sales,OPP-9188
+TX-8989,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,5000.0,10,REP-104,Partnerships,Partnerships,OPP-9189
+TX-8990,Phoenix Suns vs. Orlando Magic,2026-11-05,8400.0,10,REP-105,Inside Sales,Inside Sales,OPP-9190
+TX-8991,Suns vs. Rockets: ORIGINATIV,2026-11-07,2500.0,50,REP-999,Box Office / Web,Box Office / Web,OPP-9191
+TX-8992,Phoenix Suns vs. San Antonio Spurs,2026-11-09,12500.0,10,REP-101,Inside Sales,Inside Sales,OPP-9192
+TX-8993,Phoenix Suns vs. LA Clippers,2026-11-10,110000.0,1,REP-102,Group Sales,Group Sales,OPP-9193
+TX-8994,Suns vs. Hornets: Hoops for Troops,2026-11-12,12500.0,50,REP-103,Premium Sales,Premium Sales,OPP-9194
+TX-8995,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,12500.0,1,REP-104,Partnerships,Partnerships,OPP-9195
+TX-8996,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,45000.0,30,REP-105,Inside Sales,Inside Sales,OPP-9196
+TX-8997,Phoenix Suns vs. Orlando Magic,2026-11-05,8400.0,30,REP-999,Box Office / Web,Box Office / Web,OPP-9197
+TX-8998,Suns vs. Rockets: ORIGINATIV,2026-11-07,5000.0,10,REP-101,Inside Sales,Inside Sales,OPP-9198
+TX-8999,Phoenix Suns vs. San Antonio Spurs,2026-11-09,110000.0,20,REP-102,Group Sales,Group Sales,OPP-9199
+TX-9000,Phoenix Suns vs. LA Clippers,2026-11-10,2500.0,10,REP-103,Premium Sales,Premium Sales,OPP-9200
+TX-9001,Suns vs. Hornets: Hoops for Troops,2026-11-12,110000.0,50,REP-104,Partnerships,Partnerships,OPP-9201
+TX-9002,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,45000.0,10,REP-105,Inside Sales,Inside Sales,OPP-9202
+TX-9003,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,5000.0,1,REP-999,Box Office / Web,Box Office / Web,OPP-9203
+TX-9004,Phoenix Suns vs. Orlando Magic,2026-11-05,12500.0,10,REP-101,Inside Sales,Inside Sales,OPP-9204
+TX-9005,Suns vs. Rockets: ORIGINATIV,2026-11-07,45000.0,20,REP-102,Group Sales,Group Sales,OPP-9205
+TX-9006,Phoenix Suns vs. San Antonio Spurs,2026-11-09,12500.0,50,REP-103,Premium Sales,Premium Sales,OPP-9206
+TX-9007,Phoenix Suns vs. LA Clippers,2026-11-10,2500.0,50,REP-104,Partnerships,Partnerships,OPP-9207
+TX-9008,Suns vs. Hornets: Hoops for Troops,2026-11-12,12500.0,30,REP-105,Inside Sales,Inside Sales,OPP-9208
+TX-9009,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,12500.0,50,REP-999,Box Office / Web,Box Office / Web,OPP-9209
+TX-9010,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,110000.0,30,REP-101,Inside Sales,Inside Sales,OPP-9210
+TX-9011,Phoenix Suns vs. Orlando Magic,2026-11-05,45000.0,50,REP-102,Group Sales,Group Sales,OPP-9211
+TX-9012,Suns vs. Rockets: ORIGINATIV,2026-11-07,12500.0,20,REP-103,Premium Sales,Premium Sales,OPP-9212
+TX-9013,Phoenix Suns vs. San Antonio Spurs,2026-11-09,110000.0,30,REP-104,Partnerships,Partnerships,OPP-9213
+TX-9014,Phoenix Suns vs. LA Clippers,2026-11-10,18200.0,10,REP-105,Inside Sales,Inside Sales,OPP-9214
+TX-9015,Suns vs. Hornets: Hoops for Troops,2026-11-12,12500.0,10,REP-999,Box Office / Web,Box Office / Web,OPP-9215
+TX-9016,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,45000.0,20,REP-101,Inside Sales,Inside Sales,OPP-9216
+TX-9017,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,2500.0,20,REP-102,Group Sales,Group Sales,OPP-9217
+TX-9018,Phoenix Suns vs. Orlando Magic,2026-11-05,12500.0,10,REP-103,Premium Sales,Premium Sales,OPP-9218
+TX-9019,Suns vs. Rockets: ORIGINATIV,2026-11-07,110000.0,10,REP-104,Partnerships,Partnerships,OPP-9219
+TX-9020,Phoenix Suns vs. San Antonio Spurs,2026-11-09,18200.0,10,REP-105,Inside Sales,Inside Sales,OPP-9220
+TX-9021,Phoenix Suns vs. LA Clippers,2026-11-10,18200.0,1,REP-999,Box Office / Web,Box Office / Web,OPP-9221
+TX-9022,Suns vs. Hornets: Hoops for Troops,2026-11-12,12500.0,50,REP-101,Inside Sales,Inside Sales,OPP-9222
+TX-9023,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,2500.0,10,REP-102,Group Sales,Group Sales,OPP-9223
+TX-9024,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,5000.0,1,REP-103,Premium Sales,Premium Sales,OPP-9224
+TX-9025,Phoenix Suns vs. Orlando Magic,2026-11-05,110000.0,10,REP-104,Partnerships,Partnerships,OPP-9225
+TX-9026,Suns vs. Rockets: ORIGINATIV,2026-11-07,45000.0,1,REP-105,Inside Sales,Inside Sales,OPP-9226
+TX-9027,Phoenix Suns vs. San Antonio Spurs,2026-11-09,18200.0,50,REP-999,Box Office / Web,Box Office / Web,OPP-9227
+TX-9028,Phoenix Suns vs. LA Clippers,2026-11-10,2500.0,50,REP-101,Inside Sales,Inside Sales,OPP-9228
+TX-9029,Suns vs. Hornets: Hoops for Troops,2026-11-12,110000.0,50,REP-102,Group Sales,Group Sales,OPP-9229
+TX-9030,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,45000.0,50,REP-103,Premium Sales,Premium Sales,OPP-9230
+TX-9031,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,110000.0,20,REP-104,Partnerships,Partnerships,OPP-9231
+TX-9032,Phoenix Suns vs. Orlando Magic,2026-11-05,12500.0,10,REP-105,Inside Sales,Inside Sales,OPP-9232
+TX-9033,Suns vs. Rockets: ORIGINATIV,2026-11-07,8400.0,50,REP-999,Box Office / Web,Box Office / Web,OPP-9233
+TX-9034,Phoenix Suns vs. San Antonio Spurs,2026-11-09,45000.0,1,REP-101,Inside Sales,Inside Sales,OPP-9234
+TX-9035,Phoenix Suns vs. LA Clippers,2026-11-10,18200.0,30,REP-102,Group Sales,Group Sales,OPP-9235
+TX-9036,Suns vs. Hornets: Hoops for Troops,2026-11-12,18200.0,1,REP-103,Premium Sales,Premium Sales,OPP-9236
+TX-9037,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,45000.0,30,REP-104,Partnerships,Partnerships,OPP-9237
+TX-9038,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,18200.0,30,REP-105,Inside Sales,Inside Sales,OPP-9238
+TX-9039,Phoenix Suns vs. Orlando Magic,2026-11-05,5000.0,10,REP-999,Box Office / Web,Box Office / Web,OPP-9239
+TX-9040,Suns vs. Rockets: ORIGINATIV,2026-11-07,18200.0,30,REP-101,Inside Sales,Inside Sales,OPP-9240
+TX-9041,Phoenix Suns vs. San Antonio Spurs,2026-11-09,2500.0,50,REP-102,Group Sales,Group Sales,OPP-9241
+TX-9042,Phoenix Suns vs. LA Clippers,2026-11-10,110000.0,10,REP-103,Premium Sales,Premium Sales,OPP-9242
+TX-9043,Suns vs. Hornets: Hoops for Troops,2026-11-12,5000.0,50,REP-104,Partnerships,Partnerships,OPP-9243
+TX-9044,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,12500.0,10,REP-105,Inside Sales,Inside Sales,OPP-9244
+TX-9045,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,12500.0,10,REP-999,Box Office / Web,Box Office / Web,OPP-9245
+TX-9046,Phoenix Suns vs. Orlando Magic,2026-11-05,5000.0,20,REP-101,Inside Sales,Inside Sales,OPP-9246
+TX-9047,Suns vs. Rockets: ORIGINATIV,2026-11-07,5000.0,1,REP-102,Group Sales,Group Sales,OPP-9247
+TX-9048,Phoenix Suns vs. San Antonio Spurs,2026-11-09,18200.0,50,REP-103,Premium Sales,Premium Sales,OPP-9248
+TX-9049,Phoenix Suns vs. LA Clippers,2026-11-10,12500.0,10,REP-104,Partnerships,Partnerships,OPP-9249
+TX-9050,Suns vs. Hornets: Hoops for Troops,2026-11-12,2500.0,30,REP-105,Inside Sales,Inside Sales,OPP-9250
+TX-9051,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,8400.0,30,REP-999,Box Office / Web,Box Office / Web,OPP-9251
+TX-9052,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,12500.0,10,REP-101,Inside Sales,Inside Sales,OPP-9252
+TX-9053,Phoenix Suns vs. Orlando Magic,2026-11-05,8400.0,30,REP-102,Group Sales,Group Sales,OPP-9253
+TX-9054,Suns vs. Rockets: ORIGINATIV,2026-11-07,2500.0,1,REP-103,Premium Sales,Premium Sales,OPP-9254
+TX-9055,Phoenix Suns vs. San Antonio Spurs,2026-11-09,18200.0,20,REP-104,Partnerships,Partnerships,OPP-9255
+TX-9056,Phoenix Suns vs. LA Clippers,2026-11-10,8400.0,50,REP-105,Inside Sales,Inside Sales,OPP-9256
+TX-9057,Suns vs. Hornets: Hoops for Troops,2026-11-12,12500.0,20,REP-999,Box Office / Web,Box Office / Web,OPP-9257
+TX-9058,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,2500.0,1,REP-101,Inside Sales,Inside Sales,OPP-9258
+TX-9059,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,5000.0,20,REP-102,Group Sales,Group Sales,OPP-9259
+TX-9060,Phoenix Suns vs. Orlando Magic,2026-11-05,12500.0,50,REP-103,Premium Sales,Premium Sales,OPP-9260
+TX-9061,Suns vs. Rockets: ORIGINATIV,2026-11-07,18200.0,30,REP-104,Partnerships,Partnerships,OPP-9261
+TX-9062,Phoenix Suns vs. San Antonio Spurs,2026-11-09,110000.0,10,REP-105,Inside Sales,Inside Sales,OPP-9262
+TX-9063,Phoenix Suns vs. LA Clippers,2026-11-10,18200.0,20,REP-999,Box Office / Web,Box Office / Web,OPP-9263
+TX-9064,Suns vs. Hornets: Hoops for Troops,2026-11-12,5000.0,20,REP-101,Inside Sales,Inside Sales,OPP-9264
+TX-9065,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,110000.0,1,REP-102,Group Sales,Group Sales,OPP-9265
+TX-9066,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,5000.0,50,REP-103,Premium Sales,Premium Sales,OPP-9266
+TX-9067,Phoenix Suns vs. Orlando Magic,2026-11-05,5000.0,10,REP-104,Partnerships,Partnerships,OPP-9267
+TX-9068,Suns vs. Rockets: ORIGINATIV,2026-11-07,5000.0,10,REP-105,Inside Sales,Inside Sales,OPP-9268
+TX-9069,Phoenix Suns vs. San Antonio Spurs,2026-11-09,8400.0,1,REP-999,Box Office / Web,Box Office / Web,OPP-9269
+TX-9070,Phoenix Suns vs. LA Clippers,2026-11-10,110000.0,30,REP-101,Inside Sales,Inside Sales,OPP-9270
+TX-9071,Suns vs. Hornets: Hoops for Troops,2026-11-12,5000.0,50,REP-102,Group Sales,Group Sales,OPP-9271
+TX-9072,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,5000.0,50,REP-103,Premium Sales,Premium Sales,OPP-9272
+TX-9073,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,8400.0,50,REP-104,Partnerships,Partnerships,OPP-9273
+TX-9074,Phoenix Suns vs. Orlando Magic,2026-11-05,12500.0,1,REP-105,Inside Sales,Inside Sales,OPP-9274
+TX-9075,Suns vs. Rockets: ORIGINATIV,2026-11-07,18200.0,50,REP-999,Box Office / Web,Box Office / Web,OPP-9275
+TX-9076,Phoenix Suns vs. San Antonio Spurs,2026-11-09,2500.0,30,REP-101,Inside Sales,Inside Sales,OPP-9276
+TX-9077,Phoenix Suns vs. LA Clippers,2026-11-10,5000.0,50,REP-102,Group Sales,Group Sales,OPP-9277
+TX-9078,Suns vs. Hornets: Hoops for Troops,2026-11-12,2500.0,20,REP-103,Premium Sales,Premium Sales,OPP-9278
+TX-9079,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,2500.0,20,REP-104,Partnerships,Partnerships,OPP-9279
+TX-9080,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,12500.0,10,REP-105,Inside Sales,Inside Sales,OPP-9280
+TX-9081,Phoenix Suns vs. Orlando Magic,2026-11-05,2500.0,50,REP-999,Box Office / Web,Box Office / Web,OPP-9281
+TX-9082,Suns vs. Rockets: ORIGINATIV,2026-11-07,12500.0,1,REP-101,Inside Sales,Inside Sales,OPP-9282
+TX-9083,Phoenix Suns vs. San Antonio Spurs,2026-11-09,110000.0,50,REP-102,Group Sales,Group Sales,OPP-9283
+TX-9084,Phoenix Suns vs. LA Clippers,2026-11-10,110000.0,1,REP-103,Premium Sales,Premium Sales,OPP-9284
+TX-9085,Suns vs. Hornets: Hoops for Troops,2026-11-12,8400.0,1,REP-104,Partnerships,Partnerships,OPP-9285
+TX-9086,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,45000.0,1,REP-105,Inside Sales,Inside Sales,OPP-9286
+TX-9087,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,2500.0,30,REP-999,Box Office / Web,Box Office / Web,OPP-9287
+TX-9088,Phoenix Suns vs. Orlando Magic,2026-11-05,2500.0,50,REP-101,Inside Sales,Inside Sales,OPP-9288
+TX-9089,Suns vs. Rockets: ORIGINATIV,2026-11-07,8400.0,20,REP-102,Group Sales,Group Sales,OPP-9289
+TX-9090,Phoenix Suns vs. San Antonio Spurs,2026-11-09,2500.0,30,REP-103,Premium Sales,Premium Sales,OPP-9290
+TX-9091,Phoenix Suns vs. LA Clippers,2026-11-10,12500.0,50,REP-104,Partnerships,Partnerships,OPP-9291
+TX-9092,Suns vs. Hornets: Hoops for Troops,2026-11-12,2500.0,20,REP-105,Inside Sales,Inside Sales,OPP-9292
+TX-9093,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,12500.0,1,REP-999,Box Office / Web,Box Office / Web,OPP-9293
+TX-9094,Suns vs. Trail Blazers: Día de los Muertos,2026-11-04,110000.0,30,REP-101,Inside Sales,Inside Sales,OPP-9294
+TX-9095,Phoenix Suns vs. Orlando Magic,2026-11-05,45000.0,30,REP-102,Group Sales,Group Sales,OPP-9295
+TX-9096,Suns vs. Rockets: ORIGINATIV,2026-11-07,8400.0,10,REP-103,Premium Sales,Premium Sales,OPP-9296
+TX-9097,Phoenix Suns vs. San Antonio Spurs,2026-11-09,110000.0,50,REP-104,Partnerships,Partnerships,OPP-9297
+TX-9098,Phoenix Suns vs. LA Clippers,2026-11-10,18200.0,20,REP-105,Inside Sales,Inside Sales,OPP-9298
+TX-9099,Suns vs. Hornets: Hoops for Troops,2026-11-12,12500.0,1,REP-999,Box Office / Web,Box Office / Web,OPP-9299
+TX-9100,Phoenix Suns vs. Los Angeles Lakers,2026-11-15,12500.0,20,REP-101,Inside Sales,Inside Sales,OPP-9300
+TX-8801,Phoenix Suns vs. Orlando Magic,2026-11-05,110000.0,30,REP-102,Group Sales,Group Sales,OPP-9001

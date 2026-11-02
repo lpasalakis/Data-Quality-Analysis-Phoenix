@@ -1,0 +1,7 @@
+metric_id,metric_name,value,unit,calculation_level
+KPI-01,Total Unique Transactions Reviewed,300,Transactions,Transaction-Level
+KPI-02,Total QA Validation Checks Executed,2100,Checks,Check-Level
+KPI-03,Transaction Pass Rate (100% Pass Required),92.00%,Percentage,Transaction-Level
+KPI-04,Check-Level Pass Rate,98.81%,Percentage,Check-Level
+KPI-05,Total Flagged Revenue Variance,"$156,900.00",USD ($),Variance Sum
+KPI-06,Transactions Flagged for Review,24,Transactions,Transaction-Level
