@@ -1,7 +1,0 @@
-opportunity_id,deal_value,crm_owner_id,product,approval_status,split_credit_pct
-OPP-9001,12500.0,REP-101,Group Sales,Approved,100%
-OPP-9002,8400.0,REP-102,Group Sales,Approved,100%
-OPP-9003,50000.0,REP-103,Premium Suites,Approved,100%
-OPP-9004,18200.0,REP-101,Inside Sales,Pending Manager Sign-off,Unassigned Split
-OPP-9006,110000.0,REP-104,Sponsorship Advertising,Approved,100%
-OPP-9007,15000.0,REP-101,Inside Sales,Approved,100%
