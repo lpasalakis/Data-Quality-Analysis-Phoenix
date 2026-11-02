@@ -1,8 +1,6 @@
 
 # Player 15 Group: Data Quality & Commission Reconciliation Project
-
-**Target Role:** Data Quality Analyst – Strategy & Analytics / Commission Administration  
-**Organization Scope:** Player 15 Group (Phoenix Suns, Phoenix Mercury, Valley Suns, Mortgage Matchup Center)  
+  
 **Notice:** *This repository uses synthetic, fictional data created solely for technical demonstration purposes. It does not contain proprietary Phoenix Suns or Player 15 Group records. Commission rates, approval thresholds, and schedules are illustrative.*
 
 ---
