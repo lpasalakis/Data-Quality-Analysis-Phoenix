@@ -1,4 +1,4 @@
-[README_and_Data_Dictionary.md](https://github.com/user-attachments/files/34252152/README_and_Data_Dictionary.md)
+(https://github.com/user-attachments/files/34252152/README_and_Data_Dictionary.md)
 # Player 15 Group: Data Quality & Commission Reconciliation Project (v3)
 
 **Target Role:** Data Quality Analyst – Strategy & Analytics / Commission Administration  
